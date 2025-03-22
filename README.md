@@ -9,7 +9,7 @@ This program contains a GUI (Graphical User Interface) designs with Qt and some 
 
 ## How to run
 To easy run (for the users or someone who wants to test the app), I put the .exe file in the project's folder, you can run the program with just a double-click on that file!
-But if you want to develop it or see its source codes, you can open the "runner.py" with your favorite IDE and run it.
+But if you want to develop it or see its source codes, you can open the "app.py" with your favorite IDE and run it.
 
 ## Used tools
 - **Programming language**: Python
