@@ -8,7 +8,7 @@ This PC app called "Average Calculator" can calculate the average of several num
 This program contains a GUI (Graphical User Interface) designs with Qt and some source codes written with python.
 
 ## How to run
-If you want to develop it or see its source codes, you can open the "runner.py" with your favorite IDE and run it.
+If you want to develop it or see its source codes, you can open the `app.py` with your favorite IDE and run it.
 But if you want to run the program as an EXE file, you can install the `pyinstaller` package and convert the `app.py` to an EXE file using `pyinstaller`; Or you can even use `auto-py-to-exe` to do this more comfortably.
 More details about running this program will be considered in the next update of this README file.
 
